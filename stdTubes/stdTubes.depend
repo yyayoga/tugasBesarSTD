@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1734889613 source:c:\users\admin\desktop\c++\stdtubes\bidangkeilmuancpp.cpp
+	<iostream>
+	"bidangKeilmuanH.h"
+	"mataKuliahH.h"
+	"relasiH.h"
+	"menuH.h"
+	"globalH.h"
+	<unordered_set>
+
+1734795325 c:\users\admin\desktop\c++\stdtubes\bidangkeilmuanh.h
+	<iostream>
+	"mataKuliahH.h"
+	"relasiH.h"
+	"menuH.h"
+	"globalH.h"
+	<unordered_set>
+
+1734795328 c:\users\admin\desktop\c++\stdtubes\matakuliahh.h
+	<iostream>
+	"bidangKeilmuanH.h"
+	"relasiH.h"
+	"menuH.h"
+	"globalH.h"
+	<unordered_set>
+
+1734795335 c:\users\admin\desktop\c++\stdtubes\relasih.h
+	<iostream>
+	"bidangKeilmuanH.h"
+	"mataKuliahH.h"
+	"menuH.h"
+	"globalH.h"
+	<unordered_set>
+
+1734795331 c:\users\admin\desktop\c++\stdtubes\menuh.h
+	<iostream>
+	"bidangKeilmuanH.h"
+	"mataKuliahH.h"
+	"relasiH.h"
+	"menuH.h"
+	"globalH.h"
+	<unordered_set>
+
+1734795319 c:\users\admin\desktop\c++\stdtubes\globalh.h
+	"bidangKeilmuanH.h"
+	"mataKuliahH.h"
+	"relasiH.h"
+	"menuH.h"
+	<unordered_set>
+
+1734795287 source:c:\users\admin\desktop\c++\stdtubes\main.cpp
+	"bidangKeilmuanH.h"
+	"mataKuliahH.h"
+	"relasiH.h"
+	"menuH.h"
+	"globalH.h"
+	<unordered_set>
+
+1734889671 source:c:\users\admin\desktop\c++\stdtubes\matakuliahcpp.cpp
+	<iostream>
+	"bidangKeilmuanH.h"
+	"mataKuliahH.h"
+	"relasiH.h"
+	"menuH.h"
+	"globalH.h"
+	<unordered_set>
+
+1734889575 source:c:\users\admin\desktop\c++\stdtubes\relasicpp.cpp
+	<iostream>
+	"bidangKeilmuanH.h"
+	"mataKuliahH.h"
+	"relasiH.h"
+	"menuH.h"
+	"globalH.h"
+	<unordered_set>
+
+1734795302 source:c:\users\admin\desktop\c++\stdtubes\menucpp.cpp
+	<iostream>
+	"bidangKeilmuanH.h"
+	"mataKuliahH.h"
+	"relasiH.h"
+	"menuH.h"
+	"globalH.h"
+	<unordered_set>
+
